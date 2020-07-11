@@ -1,0 +1,1 @@
+export  const config={'host':'musixfy.tk','port':'4001'}
